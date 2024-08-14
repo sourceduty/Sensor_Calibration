@@ -14,6 +14,12 @@ In addition to setup and calibration, this GPT also helps with troubleshooting c
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Insect Box](https://github.com/sourceduty/Insect_Box)
+<br>
+[Serial Simulator](https://github.com/sourceduty/Serial_Simulator)
+<br>
+[Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
