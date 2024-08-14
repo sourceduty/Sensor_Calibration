@@ -20,6 +20,8 @@ In addition to setup and calibration, this GPT also helps with troubleshooting c
 [Serial Simulator](https://github.com/sourceduty/Serial_Simulator)
 <br>
 [Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
