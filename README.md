@@ -11,6 +11,11 @@ The GPT caters to both beginners and advanced users in the maker community. It b
 In addition to setup and calibration, this GPT also helps with troubleshooting common issues that might arise during the process. By providing practical tips and code snippets, it helps users identify and resolve problems, ensuring that sensors deliver accurate and reliable data. Whether you're just starting out with microcontroller projects or looking to optimize an existing setup, this GPT serves as a valuable resource for all your sensor calibration needs.
 
 #
+### New Idea
+
+Previously, AI models like GPT were excellent at providing general information but were not fine-tuned for specific tasks such as sensor calibration. Users would have had to rely on forums, extensive documentation, or experimentation to get their sensors functioning optimally. This specialized GPT, however, eliminates much of the trial and error by offering targeted, technical guidance with code examples and real-world applications. By narrowing its focus to this niche area, the custom GPT delivers deeper expertise and more actionable insights that weren’t available in earlier versions of AI assistance, thus enhancing the efficiency and success rate of sensor projects.
+
+#
 ### Sensor Calibration
 
 Calibrating sensors is crucial for improving the accuracy of readings in Arduino and Raspberry Pi projects. When you calibrate a sensor, you adjust its output to match known reference values, which corrects for any natural deviations or inaccuracies due to manufacturing differences, environmental conditions, or wear over time. This process ensures that the data you collect is reliable and consistent, allowing for more precise control in applications such as environmental monitoring, robotics, or data logging. Without calibration, even high-quality sensors may provide data that is skewed or imprecise, which could compromise the performance of your project.
